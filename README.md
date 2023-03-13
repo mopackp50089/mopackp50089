@@ -24,7 +24,7 @@
 <br>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mopackp50089&theme=transparent)](https://github.com/mopackp50089/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mopackp50089&theme=default&show_icons=true)](https://github.com/mopackp50089/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopackp50089&layout=compact)](https://github.com/mopackp50089/github-readme-stats)
 
 
