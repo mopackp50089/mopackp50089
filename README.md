@@ -1,13 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Harry Ho....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/%E9%B6%B4%E9%BD%A1-%E5%BC%B5-113159269/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
-<br>
 <p align="center">
   Hi, I'm Harry Ho, Research Assistant & Computer Engineer & Software Developer from Taiwan
   <br>
