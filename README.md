@@ -24,6 +24,7 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mopackp50089&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopackp50089&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
