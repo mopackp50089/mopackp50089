@@ -13,21 +13,11 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
-<!--START_SECTION:waka-->
-
-```text
-From: 12 March 2023 - To: 14 March 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mopackp50089&theme=transparent&show_icons=true)](https://github.com/mopackp50089/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopackp50089&layout=compact)](https://github.com/mopackp50089/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 <!--
