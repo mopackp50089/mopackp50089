@@ -10,9 +10,6 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 
-
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
-
 <p align="center">
   Hi, I'm Harry Ho, Research Assistant & Computer Engineer & Software Developer from Taiwan
   <br>
