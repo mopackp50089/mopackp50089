@@ -3,7 +3,9 @@
 <hr>
 <h2 align="left">:sunglasses: :metal:Hi! Good to see you. </h2>
 <br>
+
 ![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white)
+
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 
 <p align="center">
