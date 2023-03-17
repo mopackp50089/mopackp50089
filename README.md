@@ -28,7 +28,7 @@
 [![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
 [![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
 [![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
-[![Docker] <img src="[https://i.imgur.com/VyjCJuz.png](https://www.docker.com/)" alt="docker width="40" height="40"/">
+[![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
 
 <a href="https://reactjs.org/" target="_blank"> 
       <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://worldvectorlogo.com/logo/go-8)" alt="react" width="40" height="40"/> </a> 
