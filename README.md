@@ -30,9 +30,6 @@
 [![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
 [![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
 
-<a href="https://reactjs.org/" target="_blank"> 
-      <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://worldvectorlogo.com/logo/go-8)" alt="react" width="40" height="40"/> </a> 
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mopackp50089&theme=transparent&show_icons=true)](https://github.com/mopackp50089/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopackp50089&layout=compact)](https://github.com/mopackp50089/github-readme-stats)
 
