@@ -4,7 +4,7 @@
 <h2 align="left">:sunglasses: :metal:Hi! Good to see you. </h2>
 <br>
 
-![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/feed/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/feed/)]
 ![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
