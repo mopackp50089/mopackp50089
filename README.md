@@ -11,7 +11,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 
 <p align="center">
-  Hi, I'm Harry Ho, Research Assistant & Computer Engineer & Software Developer from Taiwan
+  Hi, I'm Harry Ho, Software Developer from Taiwan
   <br>
   <br>
   💻 I love writing code and learn anythings about it
@@ -22,8 +22,10 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Some Tools I Use 🔥</h2>
 <br>
+[![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mopackp50089&theme=transparent&show_icons=true)](https://github.com/mopackp50089/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopackp50089&layout=compact)](https://github.com/mopackp50089/github-readme-stats)
