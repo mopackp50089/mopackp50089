@@ -5,7 +5,7 @@
 <br>
 
 ![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white)
-
+![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 
 <p align="center">
