@@ -5,8 +5,12 @@
 <br>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+
+
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 
 <p align="center">
