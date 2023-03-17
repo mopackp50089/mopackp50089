@@ -24,8 +24,12 @@
 <hr>
 <h2 align="center">🔥 Some Tools I Use 🔥</h2>
 <br>
-
+[![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
 [![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
+[![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
+[![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
+
+<a href="url"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fgolang-tutorial%2F&psig=AOvVaw27ZqKetEB6mpg0AU8NelJ9&ust=1679124192354000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKji-pm34v0CFQAAAAAdAAAAABAE"></a>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mopackp50089&theme=transparent&show_icons=true)](https://github.com/mopackp50089/github-readme-stats)  
