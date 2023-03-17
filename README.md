@@ -30,8 +30,9 @@
 [![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
 [![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
 
-<a href="url"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fgolang-tutorial%2F&psig=AOvVaw27ZqKetEB6mpg0AU8NelJ9&ust=1679124192354000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKji-pm34v0CFQAAAAAdAAAAABAE"></a>
 
+<a href="https://reactjs.org/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mopackp50089&theme=transparent&show_icons=true)](https://github.com/mopackp50089/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopackp50089&layout=compact)](https://github.com/mopackp50089/github-readme-stats)
