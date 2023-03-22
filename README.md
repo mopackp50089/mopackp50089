@@ -33,6 +33,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mopackp50089&theme=transparent&show_icons=true)](https://github.com/mopackp50089/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopackp50089&layout=compact)](https://github.com/mopackp50089/github-readme-stats)
 
+<figure><embed src="https://wakatime.com/share/@2e5d0022-d603-4fd9-b31a-7f425b360b14/e223b71c-54d5-4208-8096-f3838583f87b.svg"></embed></figure>
+
 <!--START_SECTION:waka-->
 
 ```text
