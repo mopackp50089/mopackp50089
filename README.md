@@ -36,19 +36,19 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2023 - To: 20 March 2023
+From: 12 March 2023 - To: 21 March 2023
 
-Total Time: 2 hrs 46 mins
+Total Time: 6 hrs 19 mins
 
-Go                1 hr 44 mins    ███████████████▓░░░░░░░░░   62.94 %
-Protocol Buffer   26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-SSH Config        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Markdown          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Docker            8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-JSON              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Go                4 hrs 59 mins   ███████████████████▓░░░░░   79.04 %
+SSH Config        26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Protocol Buffer   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Markdown          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Docker            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+JSON              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
